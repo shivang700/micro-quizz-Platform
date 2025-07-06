@@ -266,26 +266,6 @@ npm run test:coverage # Run tests with coverage
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Next.js Team**: For the amazing framework
-- **Vercel**: For hosting and deployment platform
-- **Tailwind CSS**: For the utility-first CSS framework
-- **Lucide**: For the beautiful icon set
-
-## 📞 Support
-
-If you have any questions or need help with the project:
-
-1. Check the [Issues](../../issues) page
-2. Create a new issue with detailed information
-3. Contact the development team
-
----
 
 **Built with ❤️ using Next.js, TypeScript, and Tailwind CSS**
 
